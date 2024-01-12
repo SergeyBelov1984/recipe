@@ -7,11 +7,13 @@
   gap: 5px;
   align-items: center;
   background-color: rgb(123, 170, 170);
-  border: yellow;
-  border-radius: 4px;
+  border: 1px solid rgb(124, 124, 84);
+  border-radius: 5px;
 }
 .foto {
   display: flex;
+  justify-content: center;
+  align-items: center;
   width: 70px;
   height: 70px;
   background-color: blanchedalmond;

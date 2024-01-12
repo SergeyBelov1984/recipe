@@ -4,7 +4,7 @@ const CardRecipes = () => {
   return (
     <>
       <div className="card">
-        <div className="foto">здесь фото</div>
+        <div className="foto">фото</div>
         <div className="dataRecipe">
           <h3>Заголовок салата</h3>
           <p>специя 1</p>
